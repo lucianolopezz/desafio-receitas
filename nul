@@ -1,0 +1,13 @@
+
+> fsevents@1.2.4 install /Users/rodrigodutra/codenation/react-0/node_modules/fsevents
+> node install
+
+  SOLINK_MODULE(target) Release/.node
+  CXX(target) Release/obj.target/fse/fsevents.o
+  SOLINK_MODULE(target) Release/fse.node
+  COPY /Users/rodrigodutra/codenation/react-0/node_modules/fsevents/lib/binding/Release/node-v67-darwin-x64/fse.node
+  TOUCH Release/obj.target/action_after_build.stamp
++ codenation-jest-score@1.0.2
+added 69 packages from 34 contributors and audited 12962 packages in 23.416s
+found 310 vulnerabilities (30 low, 278 moderate, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
